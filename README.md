@@ -4,3 +4,4 @@ Lösung wurde dann auf #3 bei google gefunden.
 Manchmal ist die schnellste Antwort nicht die beste.
 Danke.
 
+Musste noch was testen. 
